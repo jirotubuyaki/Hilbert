@@ -12,6 +12,9 @@ Please compile like command :
 > mxmlc -default-size 800 800 -default-background-color=#ffffff Hilbert.as
 ```
 
+### Please Look
+[Hilbert Curve DEMO](http://okaal.html.xdomain.jp/logs/generative-art/flash/hilbert.html)
+
 ### ScreenShot 
 ![ScreenShot](https://github.com/jirotubuyaki/Hilbert/blob/master/screenshot.png)  
 
