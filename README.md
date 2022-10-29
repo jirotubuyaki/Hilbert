@@ -1,19 +1,7 @@
-## Hilber Curve by ActionScript
-### Requirements
-Apache Flex 4.15.0  :Please download from http://flex.apache.org/download-source.html  
-Please set a path to excuse programs.  
-Already "Hilbert.swf" is created. So let's run on your browser. FLASH Player is necessary.
+## Animation Hilber Curve by ActionScript3.0
 
-### Compile
-Main program is "Hilbert.as"  
-Please compile like command :  
-
-```
-> mxmlc -default-size 800 800 -default-background-color=#ffffff Hilbert.as
-```
-
-### Please Look
-[Hilbert Curve DEMO](http://okaal.html.xdomain.jp/logs/generative-art/flash/hilbert.html)
+### Adobe Flash Player End of Life
+Since Adobe no longer supports Flash Player after December 31, 2020 and blocked Flash content from running in Flash Player beginning January 12, 2021, Adobe strongly recommends all users immediately uninstall Flash Player to help protect their systems.  
 
 ### ScreenShot 
 ![ScreenShot](https://github.com/jirotubuyaki/Hilbert/blob/master/screenshot.png)  
